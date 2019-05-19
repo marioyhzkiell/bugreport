@@ -30,7 +30,7 @@ cyan = colors('\033[96m')
 
 system('clear')
 icon.item()
-print ('##########################################################################')
+print ('######################################################################')
 print ('##'+cyan.Color+'[●] This tool is specifically for Gmail and Yahoo users!        ##')
 print ('##  [●] Enable (less secure apps) in your email settings to work!          ##')
 print ('#############################################################################')
