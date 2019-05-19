@@ -16,7 +16,7 @@ CODED BY MARIO YEHEZKIEL
 
 INSTAGRAM : https://www.instagram.com/zcybercru/
 	    https://www.instagram.com/mario.yhzkiell/
-GITHUB : https://github.com/marioyhzkiell
+GITHUB    : https://github.com/marioyhzkiell
 hackerone : https://hackerone.com/marioyhzkiell
 
 '''
@@ -30,8 +30,8 @@ cyan = colors('\033[96m')
 
 system('clear')
 icon.item()
-print ('#############################################################################')
-print ('##'+cyan.Color+'[●] This tool is specifically for Gmail and Yahoo users!    ##')
+print ('##########################################################################')
+print ('##'+cyan.Color+'[●] This tool is specifically for Gmail and Yahoo users!        ##')
 print ('##  [●] Enable (less secure apps) in your email settings to work!          ##')
 print ('#############################################################################')
 print ('\n'+yellow.Color+'[●] select type vulnerability you want to report!')
