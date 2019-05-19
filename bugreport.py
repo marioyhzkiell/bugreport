@@ -35,7 +35,7 @@ print ('## '+cyan.Color+'[●] This tool is specifically for Gmail and Yahoo use
 print ('## '+cyan.Color+'[●] Enable (less secure apps) in your email settings to work!'+red.Color+' ##')
 print ('###################################################################')
 print ('\n'+yellow.Color+'[●] select type vulnerability you want to report!')
-print (' ═════════════════════════════════════════════════ ')
+print ('═════════════════════════════════════════════════')
 print ('    '+green.Color+'[1].'+yellow.Color+' SQLI[SQL Injection]')
 print ('    '+green.Color+'[2].'+yellow.Color+' LFI[Local File Inclusion]')
 print ('    '+green.Color+'[3].'+yellow.Color+' RFI[Remote File Inclusion]')
